@@ -14,7 +14,7 @@ The main file to run is main.py.
 
 Streamlit public app
 This app will be deployed to Streamlit Cloud.
-The public link will be added here after deployment.
+The public link: https://weatherchecker-n3fbtbypv92ryrgufaporc.streamlit.app/
 
 Why is secrets.toml used?
 The OpenWeatherMap API requires an API key.
